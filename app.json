@@ -16,6 +16,7 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.ijn.app",
       "supportsTablet": true
     },
     "android": {
